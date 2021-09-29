@@ -1,0 +1,7 @@
+{
+  "name": "Arogya point",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
